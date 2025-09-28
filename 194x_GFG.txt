@@ -1,0 +1,194 @@
+shivharevishal14@gmail.com:Shivhare12& | Courses = 0 | Total_PaidCourses = 11 | Total_Transactions = 2 | Amount_Paid = [â‚¹ 1499", â‚¹ 1499"]
+ganesheknathlande@gmail.com:L6d@_C$6RVLPuf7 | Courses = 1 | Total_PaidCourses = 1 | Total_Transactions = 1 | Amount_Paid = [â‚¹ 2519"]
+rohitr.ece2018@nsec.ac.in:4150426 | Courses = 1 | Total_PaidCourses = 4 | Total_Transactions = 1 | Amount_Paid = [$ 0"]
+swatibhadoriya0608@gmail.com:j@im@t@d1 | Courses = 1 | Total_PaidCourses = 2 | Total_Transactions = 3 | Amount_Paid = [â‚¹ 2379", â‚¹ 2499", $ 2499"]
+jaindevendra480@gmail.com:devendra@123 | Courses = 1 | Total_PaidCourses = 1 | Total_Transactions = 5 | Amount_Paid = [â‚¹ 2799", â‚¹ 2799", â‚¹ 2799", â‚¹ 2799", â‚¹ 2799"]
+harshitajain31122001@gmail.com:X@HgvB@1 | Courses = 1 | Total_PaidCourses = 1 | Total_Transactions = 1 | Amount_Paid = [$ 0"]
+maithiljanardan@gmail.com:Rajat@123 | Courses = 1 | Total_PaidCourses = 1 | Total_Transactions = 2 | Amount_Paid = [â‚¹ 3899", â‚¹ 2519"]
+imjeet227@gmail.com:Geeks@123 | Courses = 1 | Total_PaidCourses = 1 | Total_Transactions = 1 | Amount_Paid = [â‚¹ 2499"]
+abhishektripath.vns@gmail.com:@Abhishek123 | Courses = 1 | Total_PaidCourses = 3 | Total_Transactions = 15 | Amount_Paid = [â‚¹ 3599", â‚¹ 3599", â‚¹ 4499", â‚¹ 8498", â‚¹ 6999", â‚¹ 8498", â‚¹ 8498", â‚¹ 6999", â‚¹ 6999", â‚¹ 14999", â‚¹ 14999", â‚¹ 14999", â‚¹ 14999", â‚¹ 14999", â‚¹ 1999"]
+e20cse470@bennett.edu.in:X@HgvB@1 | Courses = 1 | Total_PaidCourses = 1 | Total_Transactions = 1 | Amount_Paid = [$ 0"]
+adityaswaroop80@gmail.com:Aswaroop07@ | Courses = 1 | Total_PaidCourses = 3 | Total_Transactions = 4 | Amount_Paid = [â‚¹ 2379", â‚¹ 2249", $ 2249", â‚¹ 2249"]
+navneet1kumar2900@gmail.com:235711Navneet@ | Courses = 1 | Total_PaidCourses = 2 | Total_Transactions = 2 | Amount_Paid = [â‚¹ 3314", â‚¹ 3314"]
+nikhilatyali90@gmail.com:Nikhil@123 | Courses = 1 | Total_PaidCourses = 1 | Total_Transactions = 1 | Amount_Paid = [â‚¹ 2499"]
+E20CSE470@bennett.edu.in:X@HgvB@1 | Courses = 1 | Total_PaidCourses = 1 | Total_Transactions = 1 | Amount_Paid = [$ 0"]
+shahraju2434@gmail.com:Rajushah2434@. | Courses = 0 | Total_PaidCourses = 1 | Total_Transactions = 1 | Amount_Paid = [â‚¹ 8998"]
+nirbhay.chauhan_cs19@gla.ac.in:Lovemomdad@123 | Courses = 0 | Total_PaidCourses = 4 | Total_Transactions = 1 | Amount_Paid = [$ 139.98"]
+sumanku5123@gmail.com:suman098 | Courses = 1 | Total_PaidCourses = 1 | Total_Transactions = 1 | Amount_Paid = [â‚¹ 2299"]
+rohitjha03071@gmail.com:rohitclass | Courses = 1 | Total_PaidCourses = 2 | Total_Transactions = 4 | Amount_Paid = [â‚¹ 1399", â‚¹ 6999", â‚¹ 5999", â‚¹ 1999"]
+agarwalshikhar04@gmail.com:636733@04 | Courses = 1 | Total_PaidCourses = 3 | Total_Transactions = 3 | Amount_Paid = [$ 59.98", â‚¹ 11999", $ 0"]
+prajapatikartikesh@gmail.com:0177cs161074 | Courses = 0 | Total_PaidCourses = 1 | Total_Transactions = 1 | Amount_Paid = [â‚¹ 1199"]
+lalitgulia397@gmail.com:9911167441 | Courses = 1 | Total_PaidCourses = 1 | Total_Transactions = 2 | Amount_Paid = [â‚¹ 9899", â‚¹ 2499"]
+ramachandranss18@gmail.com:Terabyte@123 | Courses = 2 | Total_PaidCourses = 3 | Total_Transactions = 2 | Amount_Paid = [â‚¹ 1499", â‚¹ 1299"]
+17uec062@lnmiit.ac.in:Geeksforgeeks | Courses = 1 | Total_PaidCourses = 2 | Total_Transactions = 1 | Amount_Paid = [â‚¹ 1499"]
+ayushmankd@gmail.com:geeksforgeeks | Courses = 1 | Total_PaidCourses = 5 | Total_Transactions = 1 | Amount_Paid = [â‚¹ 2499"]
+malharkadamict19@gmail.com:Valarmorghulis | Courses = 1 | Total_PaidCourses = 1 | Total_Transactions = 3 | Amount_Paid = [â‚¹ 2299", â‚¹ 2299", â‚¹ 2499"]
+thisavik@gmail.com:Aviraj@1998 | Courses = 1 | Total_PaidCourses = 3 | Total_Transactions = 1 | Amount_Paid = [â‚¹ 0"]
+sejalchhabra98@gmail.com:Waheguru@1313 | Courses = 1 | Total_PaidCourses = 12 | Total_Transactions = 2 | Amount_Paid = [â‚¹ 3999", â‚¹ 0"]
+Renuka01996@gmail.com:Home@12345 | Courses = 2 | Total_PaidCourses = 9 | Total_Transactions = 3 | Amount_Paid = [â‚¹ 1199", â‚¹ 2199", â‚¹ 2299"]
+rahul.kushwaha.ind@gmail.com:Awesome#321 | Courses = 1 | Total_PaidCourses = 4 | Total_Transactions = 1 | Amount_Paid = [$ 0"]
+rahulkumar.cmx@gmail.com:Premsita1! | Courses = 1 | Total_PaidCourses = 3 | Total_Transactions = 2 | Amount_Paid = [â‚¹ 2499", â‚¹ 2499"]
+amanwxy@gmail.com:log@8548 | Courses = 4 | Total_PaidCourses = 11 | Total_Transactions = 6 | Amount_Paid = [â‚¹ 299", â‚¹ 9499", $ 9499", â‚¹ 6999", â‚¹ 2499", â‚¹ 2499"]
+neeraj1372001@gmail.com:Neeraj@9650 | Courses = 1 | Total_PaidCourses = 8 | Total_Transactions = 4 | Amount_Paid = [â‚¹ 629", â‚¹ 629", â‚¹ 629", â‚¹ 629"]
+devmamgain123@gmail.com:Boltzman@123 | Courses = 2 | Total_PaidCourses = 4 | Total_Transactions = 27 | Amount_Paid = [â‚¹ 7499", â‚¹ 1500", â‚¹ 7499", â‚¹ 1500", â‚¹ 7499", â‚¹ 1500", â‚¹ 1500", â‚¹ 7499", â‚¹ 7499", â‚¹ 7499", â‚¹ 7499", â‚¹ 1500", â‚¹ 1500", â‚¹ 1500", â‚¹ 1500", â‚¹ 7499", â‚¹ 7499", â‚¹ 7499", â‚¹ 1500", â‚¹ 2599", â‚¹ 1500", â‚¹ 0", â‚¹ 9999", â‚¹ 11999", â‚¹ 2799", â‚¹ 2799", â‚¹ 3999"]
+amritanshthakur01@gmail.com:Qwerty@12345 | Courses = 1 | Total_PaidCourses = 1 | Total_Transactions = 1 | Amount_Paid = [â‚¹ 1999"]
+srivenkateshbarad@gmail.com:Venku@8341 | Courses = 1 | Total_PaidCourses = 1 | Total_Transactions = 4 | Amount_Paid = [â‚¹ 1999", â‚¹ 1999", â‚¹ 1999", â‚¹ 1999"]
+sahsatil6969@gmail.com:Sss_kkp12345 | Courses = 1 | Total_PaidCourses = 1 | Total_Transactions = 1 | Amount_Paid = [â‚¹ 1499"]
+prateekchandra7005@gmail.com:Wlgg3513 | Courses = 1 | Total_PaidCourses = 1 | Total_Transactions = 3 | Amount_Paid = [â‚¹ 600", $ 12.0", â‚¹ 199"]
+Shubham.sms142@gmail.com:shubham8938 | Courses = 1 | Total_PaidCourses = 2 | Total_Transactions = 2 | Amount_Paid = [â‚¹ 5459", â‚¹ 5799"]
+mchetry606@gmail.com:India@4557 | Courses = 1 | Total_PaidCourses = 5 | Total_Transactions = 2 | Amount_Paid = [â‚¹ 2519", â‚¹ 2519"]
+dwake7816@gmail.com:8058684414@ | Courses = 0 | Total_PaidCourses = 3 | Total_Transactions = 3 | Amount_Paid = [â‚¹ 1499", â‚¹ 1499", â‚¹ 1499"]
+dsagfgcourse@gmail.com:Rnw@08564.2036 | Courses = 2 | Total_PaidCourses = 5 | Total_Transactions = 3 | Amount_Paid = [â‚¹ 3999", â‚¹ 199", â‚¹ 1999"]
+suyashkshirsagar11@gmail.com:Suyash@22 | Courses = 1 | Total_PaidCourses = 2 | Total_Transactions = 1 | Amount_Paid = [â‚¹ 5799"]
+prakhar24012000@gmail.com:9935354841 | Courses = 1 | Total_PaidCourses = 1 | Total_Transactions = 1 | Amount_Paid = [$ 0"]
+dut.prem@gmail.com:duttaprem@123 | Courses = 1 | Total_PaidCourses = 5 | Total_Transactions = 2 | Amount_Paid = [â‚¹ 2499", â‚¹ 2499"]
+mkkathuria003@gmail.com:suverimu@123 | Courses = 1 | Total_PaidCourses = 1 | Total_Transactions = 2 | Amount_Paid = [â‚¹ 1499", â‚¹ 1499"]
+deepak.11804955@lpu.in:12A12b@@ | Courses = 1 | Total_PaidCourses = 1 | Total_Transactions = 1 | Amount_Paid = [$ 0"]
+sumitsaini589@gmail.com:Sumit$123 | Courses = 1 | Total_PaidCourses = 2 | Total_Transactions = 5 | Amount_Paid = [$ 29.98", â‚¹ 0", â‚¹ 499", â‚¹ 499", â‚¹ 499"]
+nithishcool2015@gmail.com:ZLuShT33mNBxg7A | Courses = 1 | Total_PaidCourses = 1 | Total_Transactions = 1 | Amount_Paid = [â‚¹ 1499"]
+prashant.11804537@lpu.in:Smart@07 | Courses = 1 | Total_PaidCourses = 1 | Total_Transactions = 1 | Amount_Paid = [$ 0"]
+nerellathriller2@gmail.com:Nerella7@7 | Courses = 1 | Total_PaidCourses = 1 | Total_Transactions = 1 | Amount_Paid = [â‚¹ 1999"]
+ashish.jha231294@gmail.com:717645jha | Courses = 1 | Total_PaidCourses = 1 | Total_Transactions = 1 | Amount_Paid = [â‚¹ 2999"]
+rameshbradmandgl@gmail.com:R@mesh@16 | Courses = 0 | Total_PaidCourses = 2 | Total_Transactions = 1 | Amount_Paid = [â‚¹ 3899"]
+Himanshusaraswat725@gmail.com:Himanshu9675040414@ | Courses = 0 | Total_PaidCourses = 3 | Total_Transactions = 1 | Amount_Paid = [â‚¹ 524"]
+shasantosh679@gmail.com:@Gfg679# | Courses = 0 | Total_PaidCourses = 1 | Total_Transactions = 1 | Amount_Paid = [$ 239.98"]
+rohitjha.nitsri@gmail.com:castle@of1glass | Courses = 4 | Total_PaidCourses = 10 | Total_Transactions = 3 | Amount_Paid = [$ 0", â‚¹ 8999", â‚¹ 5999"]
+rishikgupta28@gmail.com:hellohi@1234 | Courses = 1 | Total_PaidCourses = 2 | Total_Transactions = 1 | Amount_Paid = [â‚¹ 2599"]
+nafisalam1711@gmail.com:lenovog50 | Courses = 0 | Total_PaidCourses = 4 | Total_Transactions = 0
+dubeydeviprasad763@gmail.com:Deviprasad@12 | Courses = 0 | Total_PaidCourses = 1 | Total_Transactions = 0
+himanshuyadav9452177@gmail.com:9628745838 | Courses = 0 | Total_PaidCourses = 1 | Total_Transactions = 0
+mrrayan0407@gmail.com:Rrayan@001 | Courses = 0 | Total_PaidCourses = 1 | Total_Transactions = 0
+awesomevikram3@gmail.com:geekyvikram | Courses = 0 | Total_PaidCourses = 2 | Total_Transactions = 0
+khetan140105@gmail.com:@Saksham05 | Courses = 0 | Total_PaidCourses = 1 | Total_Transactions = 0
+itsvasanth005@gmail.com:Tulasi@123 | Courses = 0 | Total_PaidCourses = 1 | Total_Transactions = 0
+sreeharims2000@gmail.com:Alpha_Coder@1314 | Courses = 0 | Total_PaidCourses = 1 | Total_Transactions = 0
+ju.2025.chem.biswajit@gmail.com:Srabani_1 | Courses = 0 | Total_PaidCourses = 1 | Total_Transactions = 0
+udayan.bhattacharya@yahoo.com:Hanuman@45 | Courses = 0 | Total_PaidCourses = 3 | Total_Transactions = 0
+sainigorv341@gmail.com:Adesh44/ | Courses = 0 | Total_PaidCourses = 1 | Total_Transactions = 0
+mandalanik555@gmail.com:@Am9734307219 | Courses = 0 | Total_PaidCourses = 2 | Total_Transactions = 0
+nomishkalsi@gmail.com:kalsi73KALSI | Courses = 0 | Total_PaidCourses = 1 | Total_Transactions = 0
+gaddam.manaswini5@gmail.com:Manaswini@5 | Courses = 0 | Total_PaidCourses = 1 | Total_Transactions = 0
+rdrajan9452@gmail.com:Rdubey9452@ | Courses = 0 | Total_PaidCourses = 1 | Total_Transactions = 0
+yniharika0612@gmail.com:K33pgoing | Courses = 0 | Total_PaidCourses = 1 | Total_Transactions = 0
+siddhartha.khuntia.met20@iitbhu.ac.in:susi192525 | Courses = 0 | Total_PaidCourses = 1 | Total_Transactions = 0
+razibaida@gmail.com:1$l@M1441 | Courses = 0 | Total_PaidCourses = 3 | Total_Transactions = 0
+karimione@yahoo.com:APril071983 | Courses = 0 | Total_PaidCourses = 1 | Total_Transactions = 0
+mishrabhashkar987@gmail.com:Mishra@6386 | Courses = 0 | Total_PaidCourses = 2 | Total_Transactions = 0
+mansoorir016@gmail.com:Raza@123 | Courses = 0 | Total_PaidCourses = 2 | Total_Transactions = 0
+attrilove687@gmail.com:attrilove | Courses = 0 | Total_PaidCourses = 1 | Total_Transactions = 0
+ashishshukla123098@gmail.com:Ashish@123 | Courses = 0 | Total_PaidCourses = 1 | Total_Transactions = 0
+sravanayila1@gmail.com:Sravan@2003 | Courses = 0 | Total_PaidCourses = 1 | Total_Transactions = 0
+tuyelmufti6298@gmail.com:Tuyel12@# | Courses = 0 | Total_PaidCourses = 1 | Total_Transactions = 0
+mahanteshhoratti645@gmail.com:9954Mahi | Courses = 0 | Total_PaidCourses = 5 | Total_Transactions = 0
+ayush.2101198cs@iiitbh.ac.in:Ayushraj@198 | Courses = 0 | Total_PaidCourses = 1 | Total_Transactions = 0
+fahimabrar.fuad0112@gmail.com:F@him0112 | Courses = 0 | Total_PaidCourses = 1 | Total_Transactions = 0
+anbulakshmi140@gmail.com:Annalakshmi012@ | Courses = 0 | Total_PaidCourses = 1 | Total_Transactions = 0
+kartik.singh2021@vitbhopal.ac.in:kartik@02 | Courses = 0 | Total_PaidCourses = 1 | Total_Transactions = 0
+hritikgupta326@gmail.com:Hritik@007 | Courses = 0 | Total_PaidCourses = 3 | Total_Transactions = 0
+sushillajakhar@gmail.com:Nisha@1305 | Courses = 5 | Total_PaidCourses = 5 | Total_Transactions = 0
+ajayvdurga191999@gmail.com:Ajay@123 | Courses = 0 | Total_PaidCourses = 8 | Total_Transactions = 0
+sanjeevani2903@gmail.com:sanjeevani | Courses = 0 | Total_PaidCourses = 10 | Total_Transactions = 0
+Shivtyagi1808@gmail.com:b3AGDV5AfQwjgqc | Courses = 0 | Total_PaidCourses = 1 | Total_Transactions = 0
+periwal469@gmail.com:Manish@123456 | Courses = 0 | Total_PaidCourses = 1 | Total_Transactions = 0
+ardishbose@gmail.com:Mukhpora007 | Courses = 0 | Total_PaidCourses = 1 | Total_Transactions = 0
+munnavuyyuru123@gmail.com:Anuradha@123 | Courses = 0 | Total_PaidCourses = 1 | Total_Transactions = 0
+vansh1510vanshu@gmail.com:@1510Vanshu | Courses = 0 | Total_PaidCourses = 4 | Total_Transactions = 0
+priyankdave369@gmail.com:security*()sec1 | Courses = 0 | Total_PaidCourses = 3 | Total_Transactions = 0
+MOHAMMADKHAN03999@GMAIL.COM:Sona@3999 | Courses = 0 | Total_PaidCourses = 1 | Total_Transactions = 0
+143lolilolo@gmail.com:Laxmi143 | Courses = 0 | Total_PaidCourses = 2 | Total_Transactions = 0
+rajshukla1102@gmail.com:739089R@z | Courses = 0 | Total_PaidCourses = 2 | Total_Transactions = 0
+snp42u@gmail.com:Romeo@586 | Courses = 0 | Total_PaidCourses = 1 | Total_Transactions = 0
+bibeksingh00001@gmail.com:Me@9865027225 | Courses = 0 | Total_PaidCourses = 1 | Total_Transactions = 0
+arunkp.it20@bitsathy.ac.in:arunkps2017 | Courses = 0 | Total_PaidCourses = 2 | Total_Transactions = 0
+wa541964@gmail.com:WA03412578qas | Courses = 0 | Total_PaidCourses = 3 | Total_Transactions = 0
+hiteshwar.mehla@gmail.com:jadaula17@ | Courses = 0 | Total_PaidCourses = 3 | Total_Transactions = 0
+akashdangare101@gmail.com:Akashd@911 | Courses = 0 | Total_PaidCourses = 1 | Total_Transactions = 0
+shahbazgill621@gmail.com:52EQNwypay!@dBr | Courses = 0 | Total_PaidCourses = 1 | Total_Transactions = 0
+aaravanmol6201@gmail.com:Aa1410@k/ | Courses = 0 | Total_PaidCourses = 12 | Total_Transactions = 0
+thedevangpandey@gmail.com:6yX_QU5JnfjwFTn | Courses = 0 | Total_PaidCourses = 30 | Total_Transactions = 0
+chetansethy2001@gmail.com:jaisairam@2001 | Courses = 0 | Total_PaidCourses = 2 | Total_Transactions = 0
+bibeksingh019@gmail.com:Bhai#1102@ | Courses = 0 | Total_PaidCourses = 7 | Total_Transactions = 0
+karanamprabhanjan5@gmail.com:Kanna@2323 | Courses = 0 | Total_PaidCourses = 1 | Total_Transactions = 0
+kishorekumarstar07@gmail.com:Rajkrithika@99 | Courses = 0 | Total_PaidCourses = 2 | Total_Transactions = 0
+akki64321@gmail.com:Akshay@gfg | Courses = 0 | Total_PaidCourses = 2 | Total_Transactions = 0
+Vemavarapu.12345@gmail.com:8331013305 | Courses = 0 | Total_PaidCourses = 3 | Total_Transactions = 0
+bt19ece039@iiitn.ac.in:Suchit@09 | Courses = 0 | Total_PaidCourses = 1 | Total_Transactions = 0
+sauravbhattarai950@gmail.com:hb#r@sVzd8D8H.9 | Courses = 0 | Total_PaidCourses = 1 | Total_Transactions = 0
+imranahmad250106@gmail.com:Imran@5727Geeks | Courses = 0 | Total_PaidCourses = 6 | Total_Transactions = 0
+saxamdhyani1999@gmail.com:Sports1234@ | Courses = 0 | Total_PaidCourses = 3 | Total_Transactions = 0
+1905659@kiit.ac.in:Akshay@gfg | Courses = 0 | Total_PaidCourses = 2 | Total_Transactions = 0
+mahatorounak1@gmail.com:2@ZR5qcR73iau5g | Courses = 0 | Total_PaidCourses = 1 | Total_Transactions = 0
+muzammilalambca23@gmail.com:Al@m9008 | Courses = 0 | Total_PaidCourses = 1 | Total_Transactions = 0
+rk144199@gmail.com:rakesh@123 | Courses = 0 | Total_PaidCourses = 5 | Total_Transactions = 0
+sec20it165@sairamtap.edu.in:5558788Abinesh | Courses = 0 | Total_PaidCourses = 1 | Total_Transactions = 0
+martin005x@gmail.com:@Munish123@ | Courses = 0 | Total_PaidCourses = 1 | Total_Transactions = 0
+mtj202004@gmail.com:Teja2004$ | Courses = 0 | Total_PaidCourses = 1 | Total_Transactions = 0
+shraddhaadabade96@gmail.com:#RBF7V.D9S4LVut | Courses = 0 | Total_PaidCourses = 1 | Total_Transactions = 0
+kaifabbas35@gmail.com:7277kaif | Courses = 0 | Total_PaidCourses = 4 | Total_Transactions = 0
+thecjoshi@gmail.com:Money1@1 | Courses = 0 | Total_PaidCourses = 1 | Total_Transactions = 0
+coolest.nikhil2000@gmail.com:Coolestd001# | Courses = 0 | Total_PaidCourses = 2 | Total_Transactions = 0
+aniketghadavale123@gmail.com:Aniket@4122 | Courses = 0 | Total_PaidCourses = 7 | Total_Transactions = 0
+deathrider461@gmail.com:932tBb5xEQK4b@z | Courses = 1 | Total_PaidCourses = 27 | Total_Transactions = 0
+iamdhruvit@gmail.com:ananya27 | Courses = 0 | Total_PaidCourses = 2 | Total_Transactions = 0
+shreyanshtiwari99@gmail.com:shreytheking99 | Courses = 0 | Total_PaidCourses = 1 | Total_Transactions = 0
+namanprakash2580@gmail.com:naman@#2580 | Courses = 0 | Total_PaidCourses = 1 | Total_Transactions = 0
+mamtajoshi1234567@gmail.com:admin@1199# | Courses = 0 | Total_PaidCourses = 1 | Total_Transactions = 0
+enjoypaul143@gmail.com:paulanand143 | Courses = 0 | Total_PaidCourses = 4 | Total_Transactions = 0
+shashankkumarsingh044@gmail.com:shashankKS44@ | Courses = 0 | Total_PaidCourses = 7 | Total_Transactions = 0
+razubd250@gmail.com:razu@practice24 | Courses = 0 | Total_PaidCourses = 1 | Total_Transactions = 0
+sunyulhossen@gmail.com:Suny26841379# | Courses = 0 | Total_PaidCourses = 1 | Total_Transactions = 0
+ginnisinghalrocks@gmail.com:9QAGqJYJA#qs_c# | Courses = 0 | Total_PaidCourses = 2 | Total_Transactions = 0
+msm19b002@iiitdm.ac.in:iamachristian | Courses = 0 | Total_PaidCourses = 1 | Total_Transactions = 0
+kalsariachintan@gmail.com:gagogfg2109 | Courses = 0 | Total_PaidCourses = 1 | Total_Transactions = 0
+grith2004@gmail.com:Rithwik$999 | Courses = 0 | Total_PaidCourses = 6 | Total_Transactions = 0
+tvmukhil@gmail.com:TSsua123* | Courses = 0 | Total_PaidCourses = 1 | Total_Transactions = 0
+28ayush02mishra@gmail.com:Ayush123 | Courses = 0 | Total_PaidCourses = 4 | Total_Transactions = 0
+rahulcs989@gmail.com:iHAWK1996 | Courses = 0 | Total_PaidCourses = 2 | Total_Transactions = 0
+bb851273@gmail.com:Bharat@098 | Courses = 0 | Total_PaidCourses = 2 | Total_Transactions = 0
+mnksharma1601@gmail.com:Matysharma@geeksforgeeks | Courses = 0 | Total_PaidCourses = 3 | Total_Transactions = 0
+sahilkkr56@gmail.com:Sahi$#5800 | Courses = 0 | Total_PaidCourses = 1 | Total_Transactions = 0
+anubhav2105@gmail.com:winner1998 | Courses = 0 | Total_PaidCourses = 1 | Total_Transactions = 0
+19bcs1187@gmail.com:plmOKN@12092020 | Courses = 0 | Total_PaidCourses = 13 | Total_Transactions = 0
+abhishek.verma440@gmail.com:HIIAMABHI | Courses = 0 | Total_PaidCourses = 2 | Total_Transactions = 0
+nehasingh2k34@gmail.com:passwordneha | Courses = 0 | Total_PaidCourses = 1 | Total_Transactions = 0
+shubhamsatna9074@gmail.com:9074644022 | Courses = 0 | Total_PaidCourses = 3 | Total_Transactions = 0
+pankushwah123@gmail.com:Pankaj_k30 | Courses = 0 | Total_PaidCourses = 1 | Total_Transactions = 0
+dheeraj05raja@gmail.com:Dheeraj@05 | Courses = 0 | Total_PaidCourses = 1 | Total_Transactions = 0
+ranjeetgautam13032@gmail.com:ra~!@7264 | Courses = 0 | Total_PaidCourses = 5 | Total_Transactions = 0
+it.20203061@gmail.com:ANISH@123 | Courses = 0 | Total_PaidCourses = 6 | Total_Transactions = 0
+rockymental5858@gmail.com:tusharr@1 | Courses = 0 | Total_PaidCourses = 1 | Total_Transactions = 0
+jnvh1233sheru@gmail.com:sheru007 | Courses = 0 | Total_PaidCourses = 7 | Total_Transactions = 0
+shubhamsahu@iitkgp.ac.in:scientist1* | Courses = 0 | Total_PaidCourses = 1 | Total_Transactions = 0
+pandeyvivek203@gmail.com:Vivek_123 | Courses = 0 | Total_PaidCourses = 6 | Total_Transactions = 0
+vikramkehar@gmail.com:Vikram@24 | Courses = 0 | Total_PaidCourses = 1 | Total_Transactions = 0
+dipeshsingla668@gmail.com:dipeshsingla668 | Courses = 0 | Total_PaidCourses = 19 | Total_Transactions = 0
+udaybalaganur22@gmail.com:123abc++ | Courses = 0 | Total_PaidCourses = 2 | Total_Transactions = 0
+ppallen16221118@gmail.com:Prakash190582 | Courses = 0 | Total_PaidCourses = 3 | Total_Transactions = 0
+niladri.basak.007@gmail.com:Niladri1234*** | Courses = 0 | Total_PaidCourses = 1 | Total_Transactions = 0
+yashnigam392000@gmail.com:yash241975 | Courses = 0 | Total_PaidCourses = 7 | Total_Transactions = 0
+furiousknux@gmail.com:Malik@123 | Courses = 0 | Total_PaidCourses = 5 | Total_Transactions = 0
+naman.gupta007.ng@gmail.com:Naman@007 | Courses = 0 | Total_PaidCourses = 7 | Total_Transactions = 0
+xasibag439@gameszox.com:Zxcvbnm@123 | Courses = 0 | Total_PaidCourses = 1 | Total_Transactions = 0
+shamuddincuty19@gmail.com:#Shamuddin@19 | Courses = 0 | Total_PaidCourses = 5 | Total_Transactions = 0
+divyanshu.kr10@gmail.com:Up64d7780@ | Courses = 0 | Total_PaidCourses = 1 | Total_Transactions = 0
+amanv5341@gmail.com:amanverma | Courses = 0 | Total_PaidCourses = 1 | Total_Transactions = 0
+aniketag787@gmail.com:9921720698 | Courses = 1 | Total_PaidCourses = 1 | Total_Transactions = 0
+siddhantmahalle4@gmail.com:Siddhant4# | Courses = 0 | Total_PaidCourses = 2 | Total_Transactions = 0
+somyasuyasha@gmail.com:Somya@711 | Courses = 0 | Total_PaidCourses = 2 | Total_Transactions = 0
+aloksinghbais02@gmail.com:dyp34bs6519 | Courses = 0 | Total_PaidCourses = 15 | Total_Transactions = 0
+komalaero1@gmail.com:komi4567 | Courses = 0 | Total_PaidCourses = 1 | Total_Transactions = 0
+pawankr48133@gmail.com:pawan@2001 | Courses = 0 | Total_PaidCourses = 2 | Total_Transactions = 0
+hiep03122002@gmail.com:hiep0312 | Courses = 0 | Total_PaidCourses = 1 | Total_Transactions = 0
+snehalahariya186@gmail.com:Asdfgh@987654 | Courses = 0 | Total_PaidCourses = 2 | Total_Transactions = 0
+ajithkrish456@gmail.com:vv$MdTnN@$96M3G | Courses = 0 | Total_PaidCourses = 1 | Total_Transactions = 0
+deveshdhole18@gmail.com:devesh@18 | Courses = 0 | Total_PaidCourses = 1 | Total_Transactions = 0
+mujibmalik72@gmail.com:Mujib7822 | Courses = 0 | Total_PaidCourses = 4 | Total_Transactions = 0
+adityakhatri2001@gmail.com:noone1234 | Courses = 0 | Total_PaidCourses = 2 | Total_Transactions = 0
+kofiadjeitawiah@gmail.com:pop@9090 | Courses = 0 | Total_PaidCourses = 1 | Total_Transactions = 0
+mailmepurabi78@gmail.com:Arpanbasu1412@ | Courses = 0 | Total_PaidCourses = 4 | Total_Transactions = 0
+Saxamdhyani1999@gmail.com:Sports1234@ | Courses = 0 | Total_PaidCourses = 3 | Total_Transactions = 0
+vikrant.btech.cs16@iiitranchi.ac.in:Bipu@1998 | Courses = 0 | Total_PaidCourses = 1 | Total_Transactions = 0
+sonawaneprasad874@gmail.com:Sonawane@66 | Courses = 0 | Total_PaidCourses = 4 | Total_Transactions = 0
+doddakanaveenkumar@gmail.com:DNK143@K | Courses = 0 | Total_PaidCourses = 1 | Total_Transactions = 0
+adipah53@gmail.com:@hP9u4A3YAUPtwQ | Courses = 0 | Total_PaidCourses = 1 | Total_Transactions = 0
+jaswanth21401@gmail.com:klumailid | Courses = 0 | Total_PaidCourses = 1 | Total_Transactions = 0
