@@ -1,0 +1,363 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Maw Koon Khant — AI Engineer & Data Scientist</title>
+<link href="https://fonts.googleapis.com/css2?family=Space+Mono:ital,wght@0,400;0,700;1,400&family=Syne:wght@400;600;700;800&display=swap" rel="stylesheet">
+<style>
+
+/* ===== BASIC SETTINGS ===== */
+body {
+    margin: 0;
+    font-family: Arial, sans-serif;
+    background-color: #060816;
+    background-image: linear-gradient(rgba(6,8,22,0.88), rgba(6,8,22,0.92)), url('https://images.unsplash.com/photo-1516321318423-f06f85e504b3?q=80&w=1600&auto=format&fit=crop');
+    background-size: cover;
+    background-position: center;
+    background-attachment: fixed;
+    color: white;
+}
+
+html {
+    scroll-behavior: smooth;
+}
+
+/* ===== NAVBAR ===== */
+nav {
+    background-color: #0b1220;
+    padding: 20px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    position: sticky;
+    top: 0;
+}
+
+.nav-logo {
+    color: #00e5ff;
+    font-size: 22px;
+    font-weight: bold;
+}
+
+.nav-links a {
+    color: white;
+    text-decoration: none;
+    margin-left: 20px;
+}
+
+.nav-links a:hover {
+    color: #00e5ff;
+}
+
+/* ===== HERO SECTION ===== */
+.hero {
+    padding: 100px 40px;
+}
+
+.hero-badge {
+    color: #00e5ff;
+    margin-bottom: 20px;
+}
+
+h1 {
+    font-size: 60px;
+    margin-bottom: 20px;
+}
+
+.line2 {
+    color: #00e5ff;
+}
+
+.hero-desc {
+    color: #cccccc;
+    max-width: 700px;
+    line-height: 1.8;
+}
+
+.hero-buttons {
+    margin-top: 30px;
+}
+
+.btn {
+    padding: 12px 20px;
+    border-radius: 10px;
+    text-decoration: none;
+    margin-right: 10px;
+}
+
+.btn-primary {
+    background-color: #00e5ff;
+    color: black;
+}
+
+.btn-secondary {
+    border: 1px solid #00e5ff;
+    color: white;
+}
+
+/* ===== STATS ===== */
+.stats {
+    display: grid;
+    grid-template-columns: repeat(4, 1fr);
+    gap: 20px;
+    padding: 20px 40px;
+}
+
+.stat {
+    background-color: #111827;
+    padding: 20px;
+    border-radius: 10px;
+    text-align: center;
+}
+
+.num {
+    color: #00e5ff;
+    font-size: 35px;
+    font-weight: bold;
+}
+
+/* ===== GENERAL SECTION ===== */
+section {
+    padding: 60px 40px;
+}
+
+.title {
+    font-size: 40px;
+    margin-bottom: 30px;
+}
+
+/* ===== PROJECTS ===== */
+.projects {
+    display: grid;
+    grid-template-columns: repeat(auto-fit, minmax(300px, 1fr));
+    gap: 20px;
+}
+
+.card {
+    background-color: #111827;
+    padding: 25px;
+    border-radius: 15px;
+}
+
+.project-image {
+    width: 100%;
+    height: 200px;
+    object-fit: cover;
+    border-radius: 12px;
+    margin-bottom: 20px;
+}
+
+.type {
+    color: #00e5ff;
+    font-size: 14px;
+    margin-bottom: 10px;
+}
+
+.card p {
+    color: #cccccc;
+    line-height: 1.7;
+}
+
+.tags {
+    margin-top: 20px;
+}
+
+.tag {
+    display: inline-block;
+    background-color: #1e293b;
+    color: #00e5ff;
+    padding: 8px 12px;
+    border-radius: 20px;
+    margin-right: 5px;
+    margin-top: 5px;
+    font-size: 13px;
+}
+
+.project-links {
+    margin-top: 20px;
+}
+
+.project-btn {
+    display: inline-block;
+    text-decoration: none;
+    color: white;
+    border: 1px solid #00e5ff;
+    padding: 10px 15px;
+    border-radius: 10px;
+    margin-right: 10px;
+}
+
+.project-btn:hover {
+    background-color: #00e5ff;
+    color: black;
+}
+
+/* ===== SKILLS ===== */
+.skills {
+    display: grid;
+    grid-template-columns: repeat(auto-fit, minmax(250px, 1fr));
+    gap: 20px;
+}
+
+.skill {
+    background-color: #111827;
+    padding: 25px;
+    border-radius: 15px;
+}
+
+.skill h3 {
+    color: #00e5ff;
+}
+
+.skill p {
+    color: #cccccc;
+    line-height: 1.8;
+}
+
+/* ===== FOOTER ===== */
+footer {
+    text-align: center;
+    padding: 30px;
+    background-color: #0b1220;
+    color: #cccccc;
+}
+
+/* ===== MOBILE ===== */
+@media (max-width: 768px) {
+
+    h1 {
+        font-size: 40px;
+    }
+
+    .stats {
+        grid-template-columns: 1fr;
+    }
+
+    .nav-links {
+        display: none;
+    }
+}
+
+</style>
+</head>
+<body>
+<nav>
+
+<div class="nav-links">
+<a href="#projects">Projects</a>
+<a href="#skills">Skills</a>
+<a href="#about">About</a>
+<a href="#contact">Contact</a>
+</div>
+</nav>
+<section class="hero">
+<div class="hero-content">
+<div class="hero-badge">
+<span class="dot"></span>
+Available for AI & Data Science Opportunities
+</div>
+<h1>
+Maw Koon Khant<br>
+<span class="line2">AI Engineer & Data Scientist</span>
+</h1>
+<p class="hero-desc">
+Building intelligent systems at the intersection of AI Agents, Data Science, and Petrochemical Engineering. Focused on real-world automation, medical AI, local LLM systems, and modern intelligent applications.
+</p>
+<div class="hero-buttons">
+<a href="#projects" class="btn btn-primary">View Projects</a>
+<a href="#contact" class="btn btn-secondary">Contact Me</a>
+</div>
+</div>
+</section>
+<div class="stats">
+<div class="stat"><div class="num">8+</div><div class="label">AI/ML Projects</div></div>
+<div class="stat"><div class="num">5+</div><div class="label">Tech Stacks</div></div>
+<div class="stat"><div class="num">3</div><div class="label">Industry Domains</div></div>
+<div class="stat"><div class="num">∞</div><div class="label">Curiosity & Learning</div></div>
+</div><div>AI/ML Projects</div></div>
+<div class="stat"><div class="num">5+</div><div>Tech Stacks</div></div>
+<div class="stat"><div class="num">3</div><div>Domain Focuses</div></div>
+<div class="stat"><div class="num">∞</div><div>Curiosity</div></div>
+</div>
+<section id="projects">
+<h2 class="title">Featured Projects</h2>
+<div class="projects">
+<div class="card">
+<img class="project-image" src="https://images.unsplash.com/photo-1581595219315-a187dd40c322?q=80&w=1200&auto=format&fit=crop" alt="Xray AI">
+<div class="type">Medical AI</div>
+<h3>X-Ray Image Classification</h3>
+<p>Deep learning model for automated X-ray image classification and disease detection using computer vision techniques.</p>
+<div class="tags"><span class="tag">TensorFlow</span><span class="tag">CNN</span><span class="tag">Computer Vision</span></div>
+<div class="project-links">
+<a href="https://github.com/yourusername/xray-classification" target="_blank" class="project-btn">GitHub Repo</a>
+<a href="#" class="project-btn">Live Demo</a>
+</div>
+</div>
+<div class="card">
+<img class="project-image" src="https://images.unsplash.com/photo-1576091160550-2173dba999ef?q=80&w=1200&auto=format&fit=crop" alt="Clinic Assistant">
+<div class="type">AI Assistant</div>
+<h3>Clinic Appointment Assistant</h3>
+<p>AI-powered clinic scheduling assistant that manages appointments, patient queries, and automated booking workflows.</p>
+<div class="tags"><span class="tag">Python</span><span class="tag">Flask</span><span class="tag">Chatbot</span></div>
+<div class="project-links">
+<a href="https://github.com/yourusername/clinic-assistant" target="_blank" class="project-btn">GitHub Repo</a>
+<a href="#" class="project-btn">Live Demo</a>
+</div>
+</div>
+<div class="card">
+<img class="project-image" src="https://images.unsplash.com/photo-1516321318423-f06f85e504b3?q=80&w=1200&auto=format&fit=crop" alt="Chat Scholar">
+<div class="type">Agentic AI</div>
+<h3>Chat Scholar</h3>
+<p>Privacy-first document Q&A with essay grading via Ollama + TinyLlama and FAISS.</p>
+<div class="tags"><span class="tag">Ollama</span><span class="tag">FAISS</span><span class="tag">LangChain</span></div>
+<div class="project-links">
+<a href="https://github.com/yourusername/chat-scholar" target="_blank" class="project-btn">GitHub Repo</a>
+<a href="#" class="project-btn">Live Demo</a>
+</div>
+</div>
+</div>
+</section>
+<section id="skills">
+<h2 class="title">Tech Stack</h2>
+<div class="skills">
+<div class="skill"><h3>AI / LLM</h3><p>LangChain, LangGraph, Gemini, Ollama, RAG Pipelines</p></div>
+<div class="skill"><h3>Data Science / ML</h3><p>Python, TensorFlow, Scikit-learn, Monte Carlo Simulation</p></div>
+<div class="skill"><h3>Backend & APIs</h3><p>Flask, MySQL, REST APIs, BeautifulSoup</p></div>
+</div>
+</section>
+
+<section id="about">
+<h2 class="title">About Me</h2>
+<div class="skill">
+<p>
+AI Engineer and Data Scientist focused on intelligent automation, local-first AI systems, and modern machine learning applications. Passionate about building practical AI tools for healthcare, education, and engineering industries.
+</p>
+
+<br>
+
+<p>
+Currently studying a <strong>Diploma in Computer Science</strong> to strengthen software engineering, system design, and computing fundamentals while integrating them with <strong>Data Science</strong> and <strong>Artificial Intelligence</strong>.
+</p>
+
+<br>
+
+<p>
+My goal is to combine engineering knowledge, AI technologies, and modern software development to build intelligent systems that solve real-world industrial and healthcare problems.
+</p>
+</div>
+</section>
+
+<section id="contact">
+<h2 class="title">Contact</h2>
+<div class="project-links">
+<a href="mailto:mawkoonkhant2@gmail.com" class="project-btn">mawkoonkhant2@gmail.com</a>
+<a href="https://github.com/mawkoon3" target="_blank" class="project-btn">GitHub</a>
+</div>
+</section>
+
+<footer>
+© 2026 Maw Koon Khant — AI Engineer & Data Scientist
+</footer>
+</body>
+</html>
